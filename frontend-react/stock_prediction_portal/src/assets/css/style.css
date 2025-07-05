@@ -1,0 +1,16 @@
+
+#root{
+     background-color:#252526;
+     height: 100vh;
+     display: flex;
+     flex-direction: column;
+     /* flex: 1;
+     justify-content: center; */
+     
+}
+.bg-color{
+    background-color: #3e3e42;
+}
+.container{
+    flex: 1
+}
